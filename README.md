@@ -9,3 +9,7 @@ It is GUI based Python Color Picker project.
 # RGB and Hex Code is generated
 
 ![image](https://user-images.githubusercontent.com/69806791/174120268-010c1bdb-6781-4a0f-97cd-888620b8751a.png)
+
+# Output 
+![image](https://user-images.githubusercontent.com/69806791/174121171-b40f5e6a-5453-402c-9889-cbe01e4e1a1b.png)
+
